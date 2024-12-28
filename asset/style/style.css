@@ -1,0 +1,270 @@
+.imgg{
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* #box{
+    height: 100vh;
+} */
+#cartimg{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+#quntity{
+    width: 50px;
+}
+.aboutlogo{
+    object-fit: cover;
+    width: 100%;
+}
+.skinimg{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    transition: all linear 1s;
+}
+.skinimg:hover{
+    transform: scale(1.1);
+}
+.sideimg{
+    background-image: url(../image/handwash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;   
+}
+.skinimgg{
+    /* width: 100%; */
+    height: 300px;
+    object-fit: covers;
+    transition: all linear 1s;
+}
+.skinimgg:hover{
+    transform: scale(1.1);
+}
+.logoimg{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+.proimg{
+    background-image: url(../image/pro1.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg:hover{
+    content: '';
+    background-image: url(../image/pro11.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg2{
+    background-image: url(../image/pro2.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg2:hover{
+    content: '';
+    background-image: url(../image/pro22.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg3{
+    background-image: url(../image/pro3.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg3:hover{
+    content: '';
+    background-image: url(../image/pro33.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg4{
+    background-image: url(../image/lipbam.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg4:hover{
+    content: '';
+    background-image: url(../image/lipbam1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg5{
+    background-image: url(../image/sbox.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg5:hover{
+    content: '';
+    background-image: url(../image/sbox1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg6{
+    background-image: url(../image/roller.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg6:hover{
+    content: '';
+    background-image: url(../image/roller1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*  */
+.proimg11{
+    background-image: url(../image/box11.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg11:hover{
+    content: '';
+    background-image: url(../image/box1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg12{
+    background-image: url(../img/box2.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg12:hover{
+    content: '';
+    background-image: url(../image/pro44.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg13{
+    background-image: url(../image/box3.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg13:hover{
+    content: '';
+    background-image: url(../image/box33.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.proimg15{
+    background-image: url(../image/box33.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg15:hover{
+    content: '';
+    background-image: url(../image/box3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg18{
+    background-image: url(../image/roller1.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg18:hover{
+    content: '';
+    background-image: url(../image/roller.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg16{
+    background-image: url(../image/pro55.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg16:hover{
+    content: '';
+    background-image: url(../image/pro5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg17{
+    background-image: url(../img/pro22.jpg);
+    transition: all linear 1s;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.proimg17:hover{
+    content: '';
+    background-image: url(../image/pro2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#itemnumber{
+    /* width: 10px; */
+    background-color: red;
+    border-radius: 50%;
+    color:white ;
+}
